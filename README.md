@@ -1,3 +1,4 @@
-# GitLearning New
+# GitLearning
 
-- edited by Karthik71015
+
+- for merge conflicts
